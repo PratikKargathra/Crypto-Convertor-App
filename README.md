@@ -1,16 +1,7 @@
-# crypto_convertor_app
+# Crypto Convertor App | API
+ 
+ This is simply convert your crypto into doller using API.
 
-A new Flutter project.
+## OUTPUT
+![Crypto](https://user-images.githubusercontent.com/90972632/175447868-706a2c08-daf0-48cd-9465-99ccc5cea902.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
